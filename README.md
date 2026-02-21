@@ -21,6 +21,8 @@
 
 ## 🚀 Installation
 
+> [!CAUTION]
+> **Compatibility Requirement:** AdminChat is built specifically for **Velocity 3.0 and above**. It will not function on older legacy versions. Please verify your proxy version using `/velocity` before installing.
 1.  Download the latest `.jar` file.
 2.  Place it into your Velocity `plugins` folder.
 3.  Restart your proxy.
@@ -56,6 +58,8 @@ AdminChat supports a dynamic language system. By default, it uses Hungarian, but
 
 Created by **BucketCraft**.
 Need help? Reach out on Discord: `@bucketcraft`
+> [!WARNING]
+> If you manually modify the internal structure of the configuration files (such as deleting the `version` field or breaking the YAML syntax), the automatic migration system may fail.
 
 ---
 
