@@ -53,7 +53,7 @@ AdminChat supports a dynamic language system. By default, it uses Hungarian, but
 ## 📞 Support
 
 Created by **BucketCraft**.
-Need help? Reach out on Discord: `bucketcraft`
+Need help? Reach out on Discord: `@bucketcraft`
 
 ---
 
