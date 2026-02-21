@@ -47,6 +47,8 @@ AdminChat supports a dynamic language system. By default, it uses Hungarian, but
 2.  Change `language: hu` to `language: en`.
 3.  Run `/ac reload` in-game.
 4.  **The plugin will automatically download the `messages-en.yml` file from the official repository!**
+> [!NOTE]
+> Additional languages are planned for future updates. Feel free to contribute yours on Discord!
 
 ---
 
