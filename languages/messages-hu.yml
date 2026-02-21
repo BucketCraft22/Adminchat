@@ -3,7 +3,7 @@ format: "<gray>(%server%)</gray> <yellow>%player%</yellow> <dark_gray>»</dark_g
 no-permission: "<dark_gray>[<gradient:#DB2F2F:#DB2F2F><bold>ADMINCHAT</bold></gradient><dark_gray>] ➜ <#f53b3b>Nincsen ehhez jogod!"
 toggle-on: "<dark_gray>[<gradient:#DB2F2F:#DB2F2F><bold>ADMINCHAT</bold></gradient><dark_gray>] ➜ <#3bf58e>Adminchat bekapcsolva!"
 toggle-off: "<dark_gray>[<gradient:#DB2F2F:#DB2F2F><bold>ADMINCHAT</bold></gradient><dark_gray>] ➜ <#f53b3b>Adminchat kikapcsolva!"
-reload-success: "<dark_gray>[<gradient:#DB2F2F:#DB2F2F><bold>ADMINCHAT</bold></gradient><dark_gray>] ➜ <#55ff55>Config újratöltve!"
+reload-success: "<dark_gray>[<gradient:#DB2F2F:#DB2F2F><bold>ADMINCHAT</bold></gradient><dark_gray>] ➜ <#55ff55>Konfiguráció újratöltve!"
 reload-no-permission: "<dark_gray>[<gradient:#DB2F2F:#DB2F2F><bold>ADMINCHAT</bold></gradient><dark_gray>] ➜ <#f53b3b>Nincsen jogod a bővítmény újratöltéséhez!"
 help:
   - "               <dark_gray>--------- <gradient:#DB2F2F:#DB2F2F><bold>ADMINCHAT HELP</bold></gradient> ---------"
