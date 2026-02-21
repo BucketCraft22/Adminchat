@@ -18,3 +18,8 @@ You can find me on discord by the username: **bucketcraft**
 ## Legal
 
 This work is licensed under the **GNU GENERAL PUBLIC LICENSE**.
+
+
+## Language
+
+The default language is hungarian but you can easly change that to english by setting `language: hu` to `language: en`. This will download the language file from this page to your server.
