@@ -3,6 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0-red.svg)
 ![Platform](https://img.shields.io/badge/platform-Velocity-blue.svg)
 ![License](https://img.shields.io/badge/license-GPL--2.0-green.svg)
+![Látogatók](https://api.visitorbadge.io/api/visitors?path=BucketCraft22/AdminChat&label=VISITORS&countColor=%23d9e3f0&style=flat-square)
 
 **AdminChat** is a lightweight, high-performance Velocity plugin designed for network administrators. It provides a secure, cross-server channel for staff communication, featuring a multi-language system with automatic cloud updates.
 
